@@ -1,1 +1,4 @@
-# Exploratory-Data-Analysis-with-Python
+Exploratory data analysis on a simple dataset. The descriptive variables consist of lemonade sales, temperature, sunlight, and day of the week. The data is then visualized to display statistical data, order, dataset info, and visual charts. The histogram visualizes the distribution of lemonade sales by quanity, and the scatterplot vizualizes the relationship between temperature and sales. Lastly, the bar chart compares the average sales on sunny versus non-sunny days. The correlation between temperature and sales is then calculated to equal a perfect positive linear relationship.
+
+RECOMMENDATION:
+Lemonade sales are likely most profitable at warmer temperatures with sunny days. Based on the data accumulated, a day at 32-30 Celsuis and clear skies will sell more than a day at 32-30 celsuis with cloudy skies. The lower the temperature decreases the more the sales are also likely to decrease.
